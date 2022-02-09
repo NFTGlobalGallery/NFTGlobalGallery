@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://NFTGlobal.Gallery" resolutions="1x" timestamp="1644413421194">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://NFTGlobal.Gallery" resolutions="1x" timestamp="1644413934864">
   <folder name="assets">
     <file name="video.mp4" crc="3904298589" seo="true" mt="1644412537000"/>
   </folder>
