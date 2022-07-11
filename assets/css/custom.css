@@ -127,7 +127,7 @@ span {
     display: inline-block;
 }
 a {
-    color: #ffffff;
+    color: #000000;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
@@ -585,7 +585,7 @@ input:focus-visible {
     -o-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease-in-out;
     -webkit-box-shadow: 0 0 30px rgb(0 0 0 / 3%);
-    background: #000000;
+    background: #ffffff;
     box-shadow: 10px 0px 30px rgba(0, 0, 0, 0.05);
 }
 .menu-wrap {
@@ -624,7 +624,7 @@ input:focus-visible {
     line-height: 16px;
     letter-spacing: 0.05em;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #000000;
 }
 .nav-links:before{
     content: '';
@@ -649,28 +649,28 @@ input:focus-visible {
     padding-left: 20px;
 }
 .menu-list .nav-links:hover{
-    color: #ffffff;
+    color: #ff0000;
 }
 .navbar-navs .nav-links:hover{
-    color: #ffffff;
+    color: #ff0000;
 }
 .menu-wrap .menu-table{
-    border: 1px solid #ffffff;
+    border: 1px solid #000000;
     padding: 15px 20px 20px 20px;
 }
 .menu-table .table-detail{
     font-size: 16px;
     line-height: 16px;
-    color: #ffffff;
+    color: #ff0000;
     padding-bottom: 5px;
 }
 .menu-table .booking-number{
     font-style: normal;
     font-weight: 500;
-    font-size: 32px;
-    line-height: 32px;
+    font-size: 18px;
+    line-height: 18px;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #000000;
 }
 .foholic-social-ic{
     padding-top: 47px;
@@ -1242,7 +1242,7 @@ input:focus-visible {
     height: 100%;
     left: 0;
     top: 0;
-    background: rgba(0, 0, 0, .75);
+    background: #000000bf;
     z-index: 0;
 }
 .food_video .container{
@@ -2253,13 +2253,13 @@ textarea.custom-form-control {
     background-color: #000000;
 }
 .team_staff .hover-effect-img:hover span{
-    color: #ffffff;
+    color: #ff0000;
 }
 .team_staff .hover-effect-img:hover p{
     font-weight: 500;
 }
 .team_popup_box h5{
-    color: #ffffff;
+    color: #000000;
 }
 .team_popup_box .modal_icons a{
     padding: 12px;
@@ -2272,10 +2272,10 @@ textarea.custom-form-control {
     background-color: #000000;
 }
 .icon-ic:hover svg path{
-    fill: #ffffff;
+    fill: #000000;
 }
 .icon-ic:hover i{
-    color: #ffffff;
+    color: #000000;
 }
 .icon-ic i, .icon-ic svg{
     color: #8A8A8A;
@@ -2307,10 +2307,10 @@ textarea.custom-form-control {
     padding: 30px 0 30px 0;
 }
 .team_blog .modal-footer .watch_video_button span{
-    color: #000000;
+    color: #ffffff;
 }
 .team_blog .modal-footer .watch-button{
-    border: 2px dashed #000000;
+    border: 2px dashed #ffffff;
 }
 .team_blog .modal-footer .more-wraper{
     width: 150px;
@@ -2333,4 +2333,5 @@ textarea.custom-form-control {
 .team_blog .modal-content{
     border: none;
     padding: 30px 0 0 0;
+    background-color: #000000;
 }
