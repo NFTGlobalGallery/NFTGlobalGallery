@@ -1483,7 +1483,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     width: 100%;
 }
 .form-register{
-    background-color: #ffffff;
+    background-color: #000000;
     padding: 50px 50px 66px 50px;
 }
 .form-register .foholic_button{
